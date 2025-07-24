@@ -2,7 +2,7 @@
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning Back-End Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... don't
+- 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can recite the alphabet backwards
 

@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can recite the alphabet backwards
 
-<p align="center">
+<p align="left">
   <img src="https://api.boot.dev/v1/users/public/2e9e5807-ad7a-43f9-9b4d-f09ca2ae1b47/thumbnail" width="200" height="100">
 </p>
 
